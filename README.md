@@ -1,5 +1,5 @@
 # CSIS225 Final Project (Tank Game v1.0)
-### Developed by: Aaron McGuirk, Adam Leonard, Ben McColgen, Ethan Bartlett, Jason Macutek
+> Developed by: Aaron McGuirk, Adam Leonard, Ben McColgen, Ethan Bartlett, Jason Macutek
 
 >Instructions to Play:
 >* Download the repository
